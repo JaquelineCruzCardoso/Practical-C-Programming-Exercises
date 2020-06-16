@@ -1,5 +1,6 @@
 # Practical-C-Programming-Exercises
-//*Exercise 13-2: Write a function that takes a single string as its argument and returns a pointer to the first nonwhite character in the string+//
+//*Exercise 13-2: Write a function that takes a single string as its argument and returns a pointer to the first nonwhite character in the string*//
+
 #include <stdio.h>
 #include <string.h>
 char *nonwhite(char *thestring) {
